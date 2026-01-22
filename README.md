@@ -14,6 +14,7 @@ DESCRIPTION
 
 This is a regression problem where we need to predict the price of Bitcoin. We use Linear, Lasso Regression and Decision tree Regressor
 
+
 WHAT I HAD DONE
 
 1. perfromed exploratory data analysis (EDA) on the given dataset
@@ -29,6 +30,7 @@ MODELS USED
 1. Linear Regression= simplest and most common algorithm used for classification problems
 2. Ridge Regression
 3. Support Vector Regressor
+
 
 
 LIBRARIES NEEDED
@@ -48,3 +50,5 @@ ACCURACIES
 CONCLUSION
 
 We can conclude that Linear Regression gives the most accurate results specifically for this problem statement.
+
+The project is still under Development
