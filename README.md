@@ -47,6 +47,8 @@ ACCURACIES
 2. Ridge Regression Score = 0.9965513756246261
 3. Support Vector Regressor Score = 0.13660060536688778
 
+Final Metrics - Accuracy was above the par and working on betterment of F1 Sccore and AUC _ROC curve
+
 CONCLUSION
 
 We can conclude that Linear Regression gives the most accurate results specifically for this problem statement.
